@@ -7,6 +7,7 @@
 pyScreenSaverPrevention.pyを実行するか、<br>
 pyScreenSaverPrevention.exeを実行してください。<br>
 <br>
+exe単体でも動作するのでプログラムが不必要な場合はpyScreenSaverPrevention.exeのみをダウンロードしてください。<br>
 exe名は変更しても動作します。
 
 ## 停止方法
