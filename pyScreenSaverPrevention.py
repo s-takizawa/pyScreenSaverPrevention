@@ -1,6 +1,5 @@
 #!python3
 import pyautogui
-import sys
 
 # constants
 MOVE_DISTSANCE = 60
