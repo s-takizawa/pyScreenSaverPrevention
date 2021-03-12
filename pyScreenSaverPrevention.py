@@ -33,4 +33,7 @@ def main():
 
 
 if __name__ == "__main__":
+    print('start')
+    print('停止するにはマウスを画面の四隅に移動するか')
+    print('コマンドプロンプト上でCtrl+Cを入力してください（2回入力したほうがいいかも）')
     main()
