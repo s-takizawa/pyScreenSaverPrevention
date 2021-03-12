@@ -14,6 +14,12 @@ exe名は変更しても動作します。
 - マウスをスクリーンの四隅のどちらかに移動
 - 実行コマンドプロンプト上でCtrl + cを入力（１度目は認識しない可能性があるので念のため二度入力）
 
+## 必須モジュール
+exeで使う場合は不要です。
+```
+pip install pyautogui
+```
+
 ## English
 A tool made in Python to prevent the screen saver from starting.<br>
 Move the mouse and press "Ctrl" on a regular basis.
