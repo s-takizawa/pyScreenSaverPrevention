@@ -26,9 +26,11 @@ A tool made in Python to prevent the screen saver from starting.<br>
 Move the mouse and press "Ctrl" on a regular basis.
 
 - usage
+
 Execute pyScreenSaverPrevention.py or pyScreenSaverPrevention.exe.<br>
 You can rename pyScreenSaverPrevention.exe.
 
 - how to stop
+
 Please move mouse cursor to screen's courner<br>
 or key press "Ctrl + C" on command prompt.
